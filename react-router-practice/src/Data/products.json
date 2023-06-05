@@ -1,0 +1,89 @@
+{
+    "products":[
+        {
+            "id":1,
+            "category" : "Nails",
+            "edition": "Gel Fantasy Pride Toenails",
+            "brand": "KISS",
+            "name": "Ego"
+            
+        },
+        {
+            "id":2,
+            "category" : "Nails",
+            "edition": "Gel Fantasy Pride Toenails",
+            "brand": "KISS",
+            "name": "Love Wins"
+        },
+        {
+            "id":3,
+            "category" : "Nails",
+            "edition": "Salon Acrylic Nude French Nails",
+            "brand": "KISS",
+            "name": "Breathtaking"
+        },
+        {
+            "id":4,
+            "category" : "Nails",
+            "edition": "Salon Acrylic Nude French Nails",
+            "brand": "KISS",
+            "name": "Peaceful"
+        },
+        {
+            "id":5,
+            "category" : "Nails",
+            "edition":"Birthstone Collection",
+            "brand":"imPRESS",
+            "name":"Opal"
+        },
+        {
+            "id":6,
+            "category" : "Nails",
+            "edition":"Birthstone Collection",
+            "brand":"imPRESS",
+            "name":"Emerald"
+        },
+        {
+            "id":7,
+            "category" : "Nails",
+            "edition":"Press-On Manicure Zodiac",
+            "brand":"imPRESS",
+            "name":"Capricorn"
+        },
+        {
+            "id":8,
+            "category" : "Nails",
+            "edition":"Press-On Manicure Zodiac",
+            "brand":"KISS",
+            "name":"Cancer"
+        },
+        {
+            "id":9,
+            "category" : "Lashes",
+            "edition":"Pride",
+            "brand":"KISS",
+            "name":"Sunlight"
+        },
+        {
+            "id":10,
+            "category" : "Lashes",
+            "edition":"Pride",
+            "brand":"KISS",
+            "name":"Delight"
+        },
+        {
+            "id":11,
+            "category" : "Lashes",
+            "edition":"Press-On Falsies Eyelash 20 Clusters",
+            "brand":"imPRESS",
+            "name":"Natural"
+        },
+        {
+            "id":12,
+            "category" : "Lashes",
+            "edition":"Press-On Falsies Refills 30 Clusters",
+            "brand":"imPRESS",
+            "name":"Wispy"
+        }
+    ]
+}
