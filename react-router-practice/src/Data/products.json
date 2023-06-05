@@ -5,85 +5,96 @@
             "category" : "Nails",
             "edition": "Gel Fantasy Pride Toenails",
             "brand": "KISS",
-            "name": "Ego"
-            
+            "name": "Ego",
+            "img": "https://www.kissusa.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/8/b/8b912fb5bc1d5fc1a984f4dcc30b938f3f8154b4c9ead81d1a5dfe1f7a4cb8fd.jpeg"
         },
         {
             "id":2,
             "category" : "Nails",
             "edition": "Gel Fantasy Pride Toenails",
             "brand": "KISS",
-            "name": "Love Wins"
+            "name": "Love Wins",
+            "img": "https://www.kissusa.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/8/b/8b912fb5bc1d5fc1a984f4dcc30b938f3f8154b4c9ead81d1a5dfe1f7a4cb8fd.jpeg"
         },
         {
             "id":3,
             "category" : "Nails",
             "edition": "Salon Acrylic Nude French Nails",
             "brand": "KISS",
-            "name": "Breathtaking"
+            "name": "Breathtaking",
+            "img": "https://www.kissusa.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/8/b/8b912fb5bc1d5fc1a984f4dcc30b938f3f8154b4c9ead81d1a5dfe1f7a4cb8fd.jpeg"
         },
         {
             "id":4,
             "category" : "Nails",
             "edition": "Salon Acrylic Nude French Nails",
             "brand": "KISS",
-            "name": "Peaceful"
+            "name": "Peaceful",
+            "img": "https://www.kissusa.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/8/b/8b912fb5bc1d5fc1a984f4dcc30b938f3f8154b4c9ead81d1a5dfe1f7a4cb8fd.jpeg"
         },
         {
             "id":5,
             "category" : "Nails",
             "edition":"Birthstone Collection",
             "brand":"imPRESS",
-            "name":"Opal"
+            "name":"Opal",
+            "img": "https://www.kissusa.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/8/b/8b912fb5bc1d5fc1a984f4dcc30b938f3f8154b4c9ead81d1a5dfe1f7a4cb8fd.jpeg"
         },
         {
             "id":6,
             "category" : "Nails",
             "edition":"Birthstone Collection",
             "brand":"imPRESS",
-            "name":"Emerald"
+            "name":"Emerald",
+            "img": "https://www.kissusa.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/8/b/8b912fb5bc1d5fc1a984f4dcc30b938f3f8154b4c9ead81d1a5dfe1f7a4cb8fd.jpeg"
         },
         {
             "id":7,
             "category" : "Nails",
             "edition":"Press-On Manicure Zodiac",
             "brand":"imPRESS",
-            "name":"Capricorn"
+            "name":"Capricorn",
+            "img": "https://www.kissusa.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/8/b/8b912fb5bc1d5fc1a984f4dcc30b938f3f8154b4c9ead81d1a5dfe1f7a4cb8fd.jpeg"
         },
         {
             "id":8,
             "category" : "Nails",
             "edition":"Press-On Manicure Zodiac",
             "brand":"KISS",
-            "name":"Cancer"
+            "name":"Cancer",
+            "img": "https://www.kissusa.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/8/b/8b912fb5bc1d5fc1a984f4dcc30b938f3f8154b4c9ead81d1a5dfe1f7a4cb8fd.jpeg"
         },
         {
             "id":9,
             "category" : "Lashes",
             "edition":"Pride",
             "brand":"KISS",
-            "name":"Sunlight"
+            "name":"Sunlight",
+            "img": "https://www.kissusa.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/8/b/8b912fb5bc1d5fc1a984f4dcc30b938f3f8154b4c9ead81d1a5dfe1f7a4cb8fd.jpeg"
         },
         {
             "id":10,
             "category" : "Lashes",
             "edition":"Pride",
             "brand":"KISS",
-            "name":"Delight"
+            "name":"Delight",
+            "img": "https://www.kissusa.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/8/b/8b912fb5bc1d5fc1a984f4dcc30b938f3f8154b4c9ead81d1a5dfe1f7a4cb8fd.jpeg"
         },
         {
             "id":11,
             "category" : "Lashes",
             "edition":"Press-On Falsies Eyelash 20 Clusters",
             "brand":"imPRESS",
-            "name":"Natural"
+            "name":"Natural",
+            "img": "https://www.kissusa.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/8/b/8b912fb5bc1d5fc1a984f4dcc30b938f3f8154b4c9ead81d1a5dfe1f7a4cb8fd.jpeg"
         },
         {
             "id":12,
             "category" : "Lashes",
             "edition":"Press-On Falsies Refills 30 Clusters",
             "brand":"imPRESS",
-            "name":"Wispy"
+            "name":"Wispy",
+            "img": "https://www.kissusa.com/media/catalog/product/cache/baff2f04ff8ae6d26da83a37cac7c76a/8/b/8b912fb5bc1d5fc1a984f4dcc30b938f3f8154b4c9ead81d1a5dfe1f7a4cb8fd.jpeg"
         }
     ]
 }

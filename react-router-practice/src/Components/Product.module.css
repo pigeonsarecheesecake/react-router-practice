@@ -1,0 +1,14 @@
+.productCard{
+    /* border: 1px solid black; */
+    width: 30%;
+    height: 40vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.productImage{
+    height: 80%;
+    width: 60%;
+    /* border: 1px solid red; */
+    align-self: center;
+}
